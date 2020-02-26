@@ -23,7 +23,6 @@ public class App
         Engine engine1 = new Engine();
         engine1.manufacturer = "GM";
         engine1.capacity = 3000;
-
         carReference.engine = engine1;
 
         System.out.println("Engine details:");
